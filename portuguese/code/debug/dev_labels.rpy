@@ -22,7 +22,7 @@
 
     # game/code/debug/dev_labels.rpy:7
     old "Test locations"
-    new "Test locations"
+    new "Locais de teste"
 
     # game/code/debug/dev_labels.rpy:31
     old "Studio"
