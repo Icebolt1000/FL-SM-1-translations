@@ -224,7 +224,7 @@ translate portuguese name_done_6d786fb2:
 translate portuguese name_done_3855e5a4:
 
     # sy "I even pulled that hard drive from the server room, took it apart with my toolkit, and shredded the platter over at the machine shop."
-    sy "Até tirei aquele hard drive do servidor, desmontei com a minha caixa de ferramentas, e destruí o disco com a máquina."
+    sy "Até tirei aquele hard drive do servidor, desmontei com a minha caixa de ferramentas, e destruí o disco com a oficina."
 
 # game/code/scenes/main_story/sm1ms001.rpy:172
 translate portuguese name_done_e5fe7c2b:
