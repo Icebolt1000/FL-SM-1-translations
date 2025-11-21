@@ -28,5 +28,6 @@ translate portuguese strings:
 
     # game/code/data/chat/chat_cw.rpy:3
     old "Hi, Ms. Watts."
-    new "Hi, Ms. Watts."
+    new "Oi, Sra. Watts."
+
 
