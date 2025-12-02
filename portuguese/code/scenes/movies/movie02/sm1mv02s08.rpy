@@ -452,7 +452,7 @@ translate portuguese sm1mv02s08_5b095715:
 translate portuguese sm1mv02s08_9a5fab53:
 
     # "Crew" "*cheers*"
-    "Crew" "*comemora*"
+    "Tripulação" "*comemora*"
 
 # game/code/scenes/movies/movie02/sm1mv02s08.rpy:329
 translate portuguese sm1mv02s08_5338f635:
@@ -896,7 +896,7 @@ translate portuguese sm1mv02s08_mid_continue_54f5c0ec:
 translate portuguese sm1mv02s08_mid_continue_68fc7504:
 
     # "Computer" "Alert. Catostrophic damage to airlock safety locks."
-    "Computer" "Alerta. Danos catastróficos nas travas de segurança da escotilha."
+    "Computador" "Alerta. Danos catastróficos nas travas de segurança da escotilha."
 
 # game/code/scenes/movies/movie02/sm1mv02s08.rpy:693
 translate portuguese sm1mv02s08_mid_continue_f71c29fc:
@@ -908,7 +908,7 @@ translate portuguese sm1mv02s08_mid_continue_f71c29fc:
 translate portuguese sm1mv02s08_mid_continue_ec66b2a5:
 
     # "Computer" "Alert! Airlock decompressing. All personnel should evacuate immediately."
-    "Computer" "Alerta! Escotilha despressurizando. Todo o pessoal deve evacuar imediatamente."
+    "Computador" "Alerta! Escotilha despressurizando. Todo o pessoal deve evacuar imediatamente."
 
 # game/code/scenes/movies/movie02/sm1mv02s08.rpy:699
 translate portuguese sm1mv02s08_mid_continue_ee3d9f7f:
